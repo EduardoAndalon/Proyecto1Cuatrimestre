@@ -1,0 +1,4 @@
+import pymysql
+
+
+connection = pymysql
